@@ -95,4 +95,4 @@ async def consecuencia(ctx):
         print(f"Error:{e}")
 
 # Token de servidor de DISCORD
-final_bot.run("")
+final_bot.run("TOKEN")
